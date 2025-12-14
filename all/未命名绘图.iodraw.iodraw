@@ -196,7 +196,7 @@
             <mxPoint x="140" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-48" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-48" value="输出相应季节" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="81.25" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
