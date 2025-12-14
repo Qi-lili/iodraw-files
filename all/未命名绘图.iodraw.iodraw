@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="50m34BDTA3Rkx7lnOkB5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="50m34BDTA3Rkx7lnOkB5-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="350" as="targetPoint" />
+            <mxPoint x="80" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="50m34BDTA3Rkx7lnOkB5-6" value="yer被4整除&lt;div&gt;且&lt;/div&gt;&lt;div&gt;yer无法被100整除&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
