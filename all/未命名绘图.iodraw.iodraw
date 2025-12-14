@@ -70,7 +70,7 @@
             <mxPoint x="690" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-16" value="yer能被400整除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="390" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
