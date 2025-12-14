@@ -155,16 +155,13 @@
         <mxCell id="50m34BDTA3Rkx7lnOkB5-38" value="输出&lt;div&gt;“Common year”&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120.32" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="50m34BDTA3Rkx7lnOkB5-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250.63" y="684.5" as="sourcePoint" />
-            <mxPoint x="350" y="685" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="700" as="sourcePoint" />
-            <mxPoint x="420" y="760" as="targetPoint" />
+            <mxPoint x="379.5" y="680" as="sourcePoint" />
+            <mxPoint x="379.5" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="710" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
