@@ -22,7 +22,7 @@
             <mxPoint x="425" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-4" value="0=&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-4" value="0=&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
