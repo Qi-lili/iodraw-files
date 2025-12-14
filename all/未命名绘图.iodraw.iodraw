@@ -36,8 +36,8 @@
             <mxPoint x="350" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="362.5" y="310" width="125" height="80" as="geometry" />
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-6" value="yer被4整除&lt;div&gt;且&lt;/div&gt;&lt;div&gt;yer无法被100整除&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="310" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
