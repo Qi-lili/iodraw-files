@@ -208,7 +208,7 @@
         <mxCell id="50m34BDTA3Rkx7lnOkB5-50" value="判断月份的类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="75.71" y="260" width="131.09" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="50m34BDTA3Rkx7lnOkB5-50">
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="50m34BDTA3Rkx7lnOkB5-50" target="50m34BDTA3Rkx7lnOkB5-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="320" as="sourcePoint" />
             <mxPoint x="420" y="400" as="targetPoint" />
@@ -216,6 +216,9 @@
               <mxPoint x="420" y="300" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-53" value="输出&lt;div&gt;“31”&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
