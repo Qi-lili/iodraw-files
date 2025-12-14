@@ -141,10 +141,10 @@
         <mxCell id="50m34BDTA3Rkx7lnOkB5-34" value="p是否等于29" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="640" width="140.63" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="790" as="sourcePoint" />
-            <mxPoint x="179.82" y="730" as="targetPoint" />
+            <mxPoint x="560" y="650" as="sourcePoint" />
+            <mxPoint x="610" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
