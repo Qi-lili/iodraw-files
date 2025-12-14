@@ -37,7 +37,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="50m34BDTA3Rkx7lnOkB5-6" value="yer被4整除&lt;div&gt;且&lt;/div&gt;&lt;div&gt;yer无法被100整除&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="310" width="160" height="80" as="geometry" />
+          <mxGeometry x="340" y="310" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="410" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
