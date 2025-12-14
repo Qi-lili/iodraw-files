@@ -232,14 +232,11 @@
         <mxCell id="50m34BDTA3Rkx7lnOkB5-56" value="输出&lt;div&gt;“30”&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-60" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="50m34BDTA3Rkx7lnOkB5-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="50m34BDTA3Rkx7lnOkB5-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220.85" y="220" as="sourcePoint" />
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="50m34BDTA3Rkx7lnOkB5-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="50m34BDTA3Rkx7lnOkB5-58" target="50m34BDTA3Rkx7lnOkB5-50">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="50m34BDTA3Rkx7lnOkB5-58" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="161.25" y="290" width="120" height="60" as="geometry" />
