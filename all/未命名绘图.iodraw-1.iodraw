@@ -159,8 +159,8 @@
         <mxCell id="FM0b_Nou2Qkgstcy41X3-44" value="hor是否等于24" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="1480" width="112" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FM0b_Nou2Qkgstcy41X3-46" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="1650" width="120" height="60" as="geometry" />
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-46" value="0=&amp;gt;hor" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
