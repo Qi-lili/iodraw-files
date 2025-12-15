@@ -74,7 +74,7 @@
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="159.58" y="780" as="sourcePoint" />
-            <mxPoint x="160" y="1010" as="targetPoint" />
+            <mxPoint x="160" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="om9Yk8fcy6VLXw-n6-Ei-10">
@@ -105,7 +105,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-24" value="输出税后工资额&lt;div&gt;（保留小数点后两位）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="1010" width="140" height="70" as="geometry" />
+          <mxGeometry x="90" y="980" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1200" as="sourcePoint" />
+            <mxPoint x="570" y="1150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
