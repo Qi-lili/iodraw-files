@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1436" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -50,8 +50,14 @@
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-10" value="0.15=&amp;gt;t" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="om9Yk8fcy6VLXw-n6-Ei-12" target="om9Yk8fcy6VLXw-n6-Ei-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-12" value="工资是否在&lt;div&gt;3000与4000的&lt;/div&gt;&lt;div&gt;区间内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="480" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="505" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
