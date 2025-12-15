@@ -38,8 +38,8 @@
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-5" value="0.1=&amp;gt;t" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="460" width="130" height="80" as="geometry" />
+        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-9" value="工资是否在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="460" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
