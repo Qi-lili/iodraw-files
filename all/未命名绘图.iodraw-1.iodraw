@@ -152,9 +152,9 @@
         <mxCell id="FM0b_Nou2Qkgstcy41X3-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FM0b_Nou2Qkgstcy41X3-40" target="FM0b_Nou2Qkgstcy41X3-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FM0b_Nou2Qkgstcy41X3-58" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FM0b_Nou2Qkgstcy41X3-43">
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-58" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="FM0b_Nou2Qkgstcy41X3-43">
           <mxGeometry x="-0.8057" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="25" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FM0b_Nou2Qkgstcy41X3-40" value="mit是否等于60" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -168,6 +168,11 @@
         </mxCell>
         <mxCell id="FM0b_Nou2Qkgstcy41X3-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FM0b_Nou2Qkgstcy41X3-44" target="FM0b_Nou2Qkgstcy41X3-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-59" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FM0b_Nou2Qkgstcy41X3-47">
+          <mxGeometry x="0.3143" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FM0b_Nou2Qkgstcy41X3-44" value="hor是否等于24" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="1480" width="112" height="80" as="geometry" />
