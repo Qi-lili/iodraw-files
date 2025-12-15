@@ -38,8 +38,14 @@
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-5" value="0.1=&amp;gt;t" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="om9Yk8fcy6VLXw-n6-Ei-9" target="om9Yk8fcy6VLXw-n6-Ei-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-9" value="工资是否在&lt;div&gt;2000与3000的&lt;/div&gt;&lt;div&gt;区间内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="460" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
