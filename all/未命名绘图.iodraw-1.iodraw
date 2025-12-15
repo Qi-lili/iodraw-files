@@ -41,11 +41,17 @@
         <mxCell id="FM0b_Nou2Qkgstcy41X3-5" value="--scd2是否小于0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="356" y="310" width="116" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FM0b_Nou2Qkgstcy41X3-7" target="FM0b_Nou2Qkgstcy41X3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FM0b_Nou2Qkgstcy41X3-7" value="令mit2-1=&amp;gt;mit2&lt;div&gt;59=&amp;gt;scd2&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FM0b_Nou2Qkgstcy41X3-9" value="只执行scd2-1=&amp;gt;scd2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-13" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="550" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
