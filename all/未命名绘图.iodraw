@@ -45,13 +45,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-9" value="工资是否在&lt;div&gt;2000与3000的&lt;/div&gt;&lt;div&gt;区间内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="460" width="140" height="80" as="geometry" />
+          <mxGeometry x="370" y="390" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-10" value="0.15=&amp;gt;t" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-12" value="工资是否在&lt;div&gt;3000与4000的&lt;/div&gt;&lt;div&gt;区间内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="580" width="130" height="80" as="geometry" />
+          <mxGeometry x="610" y="530" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
