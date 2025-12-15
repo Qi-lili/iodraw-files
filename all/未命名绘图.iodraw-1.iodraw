@@ -78,8 +78,14 @@
         <mxCell id="FM0b_Nou2Qkgstcy41X3-21" value="hor2是否小于0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="356" y="710" width="116" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FM0b_Nou2Qkgstcy41X3-23" target="FM0b_Nou2Qkgstcy41X3-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FM0b_Nou2Qkgstcy41X3-23" value="23=&amp;gt;hor2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-26" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
