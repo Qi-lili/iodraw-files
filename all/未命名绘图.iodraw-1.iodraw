@@ -169,9 +169,9 @@
         <mxCell id="FM0b_Nou2Qkgstcy41X3-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FM0b_Nou2Qkgstcy41X3-44" target="FM0b_Nou2Qkgstcy41X3-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FM0b_Nou2Qkgstcy41X3-59" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FM0b_Nou2Qkgstcy41X3-47">
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-59" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="FM0b_Nou2Qkgstcy41X3-47">
           <mxGeometry x="0.3143" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FM0b_Nou2Qkgstcy41X3-44" value="hor是否等于24" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
