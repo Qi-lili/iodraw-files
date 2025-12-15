@@ -48,7 +48,7 @@
           <mxGeometry x="320" y="390" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-10" value="0.15=&amp;gt;t" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="om9Yk8fcy6VLXw-n6-Ei-12" target="om9Yk8fcy6VLXw-n6-Ei-14">
           <mxGeometry relative="1" as="geometry" />
@@ -60,10 +60,16 @@
           <mxGeometry x="500" y="480" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-14" value="0.2=&amp;gt;t" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="505" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="om9Yk8fcy6VLXw-n6-Ei-16" target="om9Yk8fcy6VLXw-n6-Ei-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om9Yk8fcy6VLXw-n6-Ei-16" value="工资是否&lt;div&gt;大于4000&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="570" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="om9Yk8fcy6VLXw-n6-Ei-18" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
