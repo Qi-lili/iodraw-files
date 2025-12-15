@@ -7,6 +7,15 @@
         <mxCell id="zy2jytYx6wGk6r1UYDyj-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="40" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="zy2jytYx6wGk6r1UYDyj-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.493;exitY=1.092;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zy2jytYx6wGk6r1UYDyj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="410" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
