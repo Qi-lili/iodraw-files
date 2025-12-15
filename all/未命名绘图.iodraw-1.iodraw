@@ -50,8 +50,8 @@
         <mxCell id="FM0b_Nou2Qkgstcy41X3-9" value="只执行scd2-1=&amp;gt;scd2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FM0b_Nou2Qkgstcy41X3-13" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="366" y="510" width="124" height="80" as="geometry" />
+        <mxCell id="FM0b_Nou2Qkgstcy41X3-13" value="mit2是否小于0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="352" y="510" width="124" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
