@@ -4,14 +4,17 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="UJxm70NL8-lX_hG4y6HV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UJxm70NL8-lX_hG4y6HV-4" target="UJxm70NL8-lX_hG4y6HV-5">
+        <mxCell id="UJxm70NL8-lX_hG4y6HV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UJxm70NL8-lX_hG4y6HV-4" target="UJxm70NL8-lX_hG4y6HV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UJxm70NL8-lX_hG4y6HV-4" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="346" y="40" width="124" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UJxm70NL8-lX_hG4y6HV-5" value="输入要求&lt;div&gt;整数n1的值&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="348" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxm70NL8-lX_hG4y6HV-7" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="348" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
