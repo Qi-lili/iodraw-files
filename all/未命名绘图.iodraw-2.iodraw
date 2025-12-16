@@ -31,13 +31,14 @@
         <mxCell id="UJxm70NL8-lX_hG4y6HV-10" value="令n1=&amp;gt;n2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="348" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UJxm70NL8-lX_hG4y6HV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UJxm70NL8-lX_hG4y6HV-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="408" y="555" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="UJxm70NL8-lX_hG4y6HV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UJxm70NL8-lX_hG4y6HV-12" target="UJxm70NL8-lX_hG4y6HV-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UJxm70NL8-lX_hG4y6HV-12" value="sum+n2=&amp;gt;n2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="348" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxm70NL8-lX_hG4y6HV-16" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="368" y="550" width="102" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
