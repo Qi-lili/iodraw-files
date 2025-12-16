@@ -22,8 +22,8 @@
         <mxCell id="lMt73yNDCniHfVksn4VE-4" value="令a2=&amp;gt;a1&lt;div&gt;a1=&amp;gt;sum&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="367" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lMt73yNDCniHfVksn4VE-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="367" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="lMt73yNDCniHfVksn4VE-6" value="a1+a2*10=&amp;gt;a2&lt;div&gt;sum+a2=&amp;gt;sum&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="367" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
