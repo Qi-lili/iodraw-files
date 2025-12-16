@@ -55,6 +55,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="lMt73yNDCniHfVksn4VE-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lMt73yNDCniHfVksn4VE-13">
+          <mxGeometry x="-0.8497" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lMt73yNDCniHfVksn4VE-14" value="输出sum的值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="367" y="630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -63,6 +68,9 @@
             <mxPoint x="426.5" y="690" as="sourcePoint" />
             <mxPoint x="427" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lMt73yNDCniHfVksn4VE-17" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="377" y="740" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
