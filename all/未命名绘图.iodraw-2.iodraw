@@ -10,8 +10,14 @@
         <mxCell id="7N7g2XoGOc4qmAKufZmr-0" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="351" y="40" width="126" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7N7g2XoGOc4qmAKufZmr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7N7g2XoGOc4qmAKufZmr-1" target="7N7g2XoGOc4qmAKufZmr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7N7g2XoGOc4qmAKufZmr-1" value="输入整数n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="352" y="160" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7N7g2XoGOc4qmAKufZmr-3" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="315" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
