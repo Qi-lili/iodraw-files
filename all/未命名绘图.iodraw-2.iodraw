@@ -49,8 +49,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7N7g2XoGOc4qmAKufZmr-11" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="7N7g2XoGOc4qmAKufZmr-11" value="输出cnt代表位数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
