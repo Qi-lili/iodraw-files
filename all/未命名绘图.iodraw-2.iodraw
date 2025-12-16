@@ -34,8 +34,14 @@
         <mxCell id="lMt73yNDCniHfVksn4VE-8" value="n-1=&amp;gt;n" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="367" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lMt73yNDCniHfVksn4VE-10" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="387" y="560" width="80" height="80" as="geometry" />
+        <mxCell id="lMt73yNDCniHfVksn4VE-10" value="n是否大于1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360.5" y="520" width="133" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMt73yNDCniHfVksn4VE-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="350" as="sourcePoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
