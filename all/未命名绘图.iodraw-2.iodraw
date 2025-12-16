@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="UJxm70NL8-lX_hG4y6HV-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="190" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="20" width="136" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
