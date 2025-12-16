@@ -37,7 +37,7 @@
         <mxCell id="UJxm70NL8-lX_hG4y6HV-12" value="sum+n2=&amp;gt;n2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="348" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UJxm70NL8-lX_hG4y6HV-20" value="sum+n2=&amp;gt;n2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UJxm70NL8-lX_hG4y6HV-20" value="n2-1=&amp;gt;n2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="348" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
