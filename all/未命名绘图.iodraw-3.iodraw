@@ -52,6 +52,9 @@
         <mxCell id="RTuEtnx_UJMiBFPuUt3v-13" value="cnt+1=&amp;gt;cnt" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RTuEtnx_UJMiBFPuUt3v-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RTuEtnx_UJMiBFPuUt3v-15" target="RTuEtnx_UJMiBFPuUt3v-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RTuEtnx_UJMiBFPuUt3v-15" value="cnt是否小于15" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="351" y="770" width="126" height="90" as="geometry" />
         </mxCell>
@@ -70,11 +73,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTuEtnx_UJMiBFPuUt3v-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="960" as="sourcePoint" />
-            <mxPoint x="464" y="910" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="RTuEtnx_UJMiBFPuUt3v-20" value="cnt是否小于15" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="351" y="940" width="126" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
