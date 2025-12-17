@@ -34,8 +34,14 @@
         <mxCell id="RTuEtnx_UJMiBFPuUt3v-7" value="令0=&amp;gt;cnt" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RTuEtnx_UJMiBFPuUt3v-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RTuEtnx_UJMiBFPuUt3v-9" target="RTuEtnx_UJMiBFPuUt3v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RTuEtnx_UJMiBFPuUt3v-9" value="判断a[cnt]&lt;div&gt;是否等于n&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="351" y="520" width="126" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RTuEtnx_UJMiBFPuUt3v-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
