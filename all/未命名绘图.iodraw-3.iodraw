@@ -73,15 +73,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTuEtnx_UJMiBFPuUt3v-20" value="cnt是否小于15" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RTuEtnx_UJMiBFPuUt3v-20" value="cnt1是否&lt;div&gt;等于-1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="351" y="900" width="126" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RTuEtnx_UJMiBFPuUt3v-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RTuEtnx_UJMiBFPuUt3v-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RTuEtnx_UJMiBFPuUt3v-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="880" as="sourcePoint" />
             <mxPoint x="414" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="890" />
+              <mxPoint x="600" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
