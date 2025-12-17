@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RTuEtnx_UJMiBFPuUt3v-20" value="cnt是否小于15" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="351" y="940" width="126" height="90" as="geometry" />
+          <mxGeometry x="351" y="900" width="126" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
