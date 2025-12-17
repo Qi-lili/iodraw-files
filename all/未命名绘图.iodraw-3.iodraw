@@ -73,8 +73,14 @@
         <mxCell id="0utShuKQhefII--rgDwJ-21" value="输出a[cnt2]的值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="339.5" y="930" width="149" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="0utShuKQhefII--rgDwJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0utShuKQhefII--rgDwJ-23" target="0utShuKQhefII--rgDwJ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0utShuKQhefII--rgDwJ-23" value="cnt2+1=&amp;gt;cnt2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0utShuKQhefII--rgDwJ-25" value="cnt2是否小于n-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="336" y="1160" width="156" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
