@@ -34,8 +34,14 @@
         <mxCell id="6iHESb5UyrpsDIE-Ysu2-9" value="a[cnt-1]+a[cnt-2]&lt;div&gt;=&amp;gt;a[cnt]&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6iHESb5UyrpsDIE-Ysu2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6iHESb5UyrpsDIE-Ysu2-11" target="6iHESb5UyrpsDIE-Ysu2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6iHESb5UyrpsDIE-Ysu2-11" value="cnt+1=&amp;gt;cnt" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="524.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6iHESb5UyrpsDIE-Ysu2-13" value="cnt是否小于n+1" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
