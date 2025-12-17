@@ -28,8 +28,14 @@
         <mxCell id="6iHESb5UyrpsDIE-Ysu2-7" value="3=&amp;gt;cnt" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6iHESb5UyrpsDIE-Ysu2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6iHESb5UyrpsDIE-Ysu2-9" target="6iHESb5UyrpsDIE-Ysu2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6iHESb5UyrpsDIE-Ysu2-9" value="a[cnt-1]+a[cnt-2]&lt;div&gt;=&amp;gt;a[cnt]&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6iHESb5UyrpsDIE-Ysu2-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
