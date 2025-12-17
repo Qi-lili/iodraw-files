@@ -22,8 +22,14 @@
         <mxCell id="6iHESb5UyrpsDIE-Ysu2-5" value="输入斐波那契数列&lt;div&gt;第几位n的值&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="351" y="230" width="126" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6iHESb5UyrpsDIE-Ysu2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6iHESb5UyrpsDIE-Ysu2-7" target="6iHESb5UyrpsDIE-Ysu2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6iHESb5UyrpsDIE-Ysu2-7" value="3=&amp;gt;cnt" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6iHESb5UyrpsDIE-Ysu2-9" value="a[cnt-1]+a[cnt-2]&lt;div&gt;=&amp;gt;a[cnt]&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
