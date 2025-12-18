@@ -55,7 +55,7 @@
         <mxCell id="-jIJSjeVQjQG8j314Ci9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-jIJSjeVQjQG8j314Ci9-16" target="-jIJSjeVQjQG8j314Ci9-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-jIJSjeVQjQG8j314Ci9-16" value="调用check函数&lt;div&gt;在check函数中检查&lt;/div&gt;&lt;div&gt;光强与声音大小&lt;/div&gt;&lt;div&gt;判断是否符合题设要求将&lt;/div&gt;&lt;div&gt;0=&amp;gt;open或1=&amp;gt;open&lt;/div&gt;&lt;div&gt;在光强大于50时将0=&amp;gt;im2&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-16" value="调用check函数&lt;div&gt;在check函数中检查&lt;/div&gt;&lt;div&gt;光强与声音大小&lt;/div&gt;&lt;div&gt;判断是否符合题设要求将&lt;/div&gt;&lt;div&gt;0=&amp;gt;open或1=&amp;gt;open&lt;/div&gt;&lt;div&gt;在光强大于50时将0=&amp;gt;tim2&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="327.38" y="800" width="181.25" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-jIJSjeVQjQG8j314Ci9-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
