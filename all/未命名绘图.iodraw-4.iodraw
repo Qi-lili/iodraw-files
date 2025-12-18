@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2220" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -106,8 +106,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-jIJSjeVQjQG8j314Ci9-28" target="-jIJSjeVQjQG8j314Ci9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-jIJSjeVQjQG8j314Ci9-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;输出当前的&lt;div&gt;时间、光强、&lt;/div&gt;&lt;div&gt;声音大小，亮灯状态&lt;/div&gt;&lt;div&gt;若亮灯，&lt;/div&gt;&lt;div&gt;则输出剩余亮灯时间&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="339.5" y="1290" width="157" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-30" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
