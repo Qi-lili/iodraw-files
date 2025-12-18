@@ -106,8 +106,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-jIJSjeVQjQG8j314Ci9-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;输出当前的&lt;div&gt;时间、光强、&lt;/div&gt;&lt;div&gt;声音大小，亮灯状态&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="353" y="1290" width="130" height="80" as="geometry" />
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;输出当前的&lt;div&gt;时间、光强、&lt;/div&gt;&lt;div&gt;声音大小，亮灯状态&lt;/div&gt;&lt;div&gt;若亮灯，&lt;/div&gt;&lt;div&gt;则输出剩余亮灯时间&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339.5" y="1290" width="157" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
