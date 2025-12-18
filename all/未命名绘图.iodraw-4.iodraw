@@ -16,8 +16,14 @@
         <mxCell id="-jIJSjeVQjQG8j314Ci9-2" value="初始化&lt;div&gt;各个变量为0&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-jIJSjeVQjQG8j314Ci9-4" target="-jIJSjeVQjQG8j314Ci9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-jIJSjeVQjQG8j314Ci9-4" value="定义字符数组a[2][5]&lt;div&gt;为&quot;开启&quot;“关闭”&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="358" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
