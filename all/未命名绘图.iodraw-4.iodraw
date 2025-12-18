@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -52,6 +52,9 @@
         <mxCell id="-jIJSjeVQjQG8j314Ci9-14" value="0=&amp;gt;tim2" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-jIJSjeVQjQG8j314Ci9-16" target="-jIJSjeVQjQG8j314Ci9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-jIJSjeVQjQG8j314Ci9-16" value="调用check函数&lt;div&gt;在check函数中检查&lt;/div&gt;&lt;div&gt;光强与声音大小&lt;/div&gt;&lt;div&gt;根据题设要求将&lt;/div&gt;&lt;div&gt;0=&amp;gt;open或1=&amp;gt;open&lt;/div&gt;&lt;div&gt;在光强大于50时将0=&amp;gt;im2&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="327.38" y="800" width="181.25" height="120" as="geometry" />
         </mxCell>
@@ -66,9 +69,12 @@
             <mxPoint x="508.63" y="780" as="sourcePoint" />
             <mxPoint x="509" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="640" />
+              <mxPoint x="509" y="630" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-20" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="378.005" y="1020" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
