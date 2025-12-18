@@ -28,7 +28,7 @@
         <mxCell id="-jIJSjeVQjQG8j314Ci9-6" value="设置随机数种子" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-jIJSjeVQjQG8j314Ci9-8" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-jIJSjeVQjQG8j314Ci9-8" value="对光强light&lt;div&gt;和声音sound&lt;/div&gt;&lt;div&gt;取100内的随机数&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
