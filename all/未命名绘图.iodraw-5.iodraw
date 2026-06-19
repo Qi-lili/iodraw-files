@@ -91,10 +91,10 @@
         <mxCell id="yqrs9bSqsJLBSuBhg1DY-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="660" width="110" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="yqrs9bSqsJLBSuBhg1DY-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yqrs9bSqsJLBSuBhg1DY-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yqrs9bSqsJLBSuBhg1DY-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="620" as="sourcePoint" />
-            <mxPoint x="300" y="570" as="targetPoint" />
+            <mxPoint x="245" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
