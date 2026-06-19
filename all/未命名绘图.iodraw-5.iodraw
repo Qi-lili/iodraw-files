@@ -8,10 +8,13 @@
           <mxGeometry x="160" y="90" width="320" height="270" as="geometry" />
         </mxCell>
         <mxCell id="yqrs9bSqsJLBSuBhg1DY-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="100" width="70" height="30" as="geometry" />
+          <mxGeometry x="290" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yqrs9bSqsJLBSuBhg1DY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="130" width="210" height="100" as="geometry" />
+          <mxGeometry x="180" y="130" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yqrs9bSqsJLBSuBhg1DY-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
