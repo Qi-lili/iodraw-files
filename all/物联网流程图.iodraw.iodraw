@@ -13,8 +13,8 @@
         <mxCell id="yqrs9bSqsJLBSuBhg1DY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="175" y="130" width="300" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="yqrs9bSqsJLBSuBhg1DY-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模式&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;切换&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="180" width="50" height="50" as="geometry" />
+        <mxCell id="yqrs9bSqsJLBSuBhg1DY-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;AI感知数据处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="180" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yqrs9bSqsJLBSuBhg1DY-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;运动&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;遥控&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="180" width="50" height="50" as="geometry" />
